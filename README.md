@@ -1,4 +1,11 @@
-## Hi there 👋
+## Etudiant en Informatique
+### Actuelement en BUT2 Info a l'UPEC
+
+### Project de formations :
+#### - BUT Info
+#### - Liscence Info
+#### - Master Info
+#### - Devenir DEV Backend
 
 <!--
 **Gamenight77/Gamenight77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
