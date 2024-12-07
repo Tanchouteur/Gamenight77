@@ -1,7 +1,7 @@
 ## Etudiant en Informatique
 ### Actuelement en BUT2 Info a l'UPEC
 
-### [Prtofolio](https://tanchou.fr)
+### [Portfolio](https://tanchou.fr)
 
 ### Project de formations :
 #### - BUT Info
