@@ -1,7 +1,7 @@
 ## Etudiant en Informatique
 ### Actuelement en BUT2 Info a l'UPEC
 
-### [Portfolio](https://tanchou.fr)
+### [Portfolio](https://tanchou.fr) - Contact : louis.tanchou@gmail.com
 
 ### Project de formations :
 #### - BUT Info
