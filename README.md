@@ -1,13 +1,12 @@
 # Etudiant en Informatique
 ### Actuelement en BUT2 Info a l'UPEC
 
-### [Portfolio](https://tanchou.fr) - Contact : louis.tanchou@gmail.com
+### [Portfolio (new version in progress)](https://tanchou.fr) - Contact : louis.tanchou@gmail.com
 
 ### Project de formations :
 #### - BUT Info
-#### - Ecole d'ingénieur et sinon :
+#### - Ecole d'Ingénieur et sinon :
 #### - Liscence Info Master Info
-#### - Devenir DEV Backend
 
 ## A propos de moi : 
 Avant même de débuter mes études supérieures, j’ai entrepris des projets personnels tels que la création de sites Web connectés à des bases de données ou le développement de petits logiciels en Python. Depuis mon entrée en BUT, j’ai enrichi mes compétences techniques dans divers langages et technologies, notamment Java, SQL/PLSQL, C, JavaScript et Android.
