@@ -5,8 +5,9 @@
 
 ### Project de formations :
 #### - BUT Info
-#### - Ecole d'Ingénieur et sinon :
-#### - Liscence Info Master Info
+#### - Ecole d'Ingénieur
+
+#### - [CV](/CV_Louis_Tanchou.pdf) - [LM](/Lettre_Motivation.pdf)
 
 ## A propos de moi : 
 Avant même de débuter mes études supérieures, j’ai entrepris des projets personnels tels que la création de sites Web connectés à des bases de données ou le développement de petits logiciels en Python. Depuis mon entrée en BUT, j’ai enrichi mes compétences techniques dans divers langages et technologies, notamment Java, SQL/PLSQL, C, JavaScript et Android.
